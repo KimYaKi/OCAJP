@@ -26,7 +26,7 @@ myList.add(new Tiger());</code></pre>
 <pre><code>ArrayList<Tiger> myList = new ArrayList<>();
 myList.add(new Cat());</code></pre> 
 
-* D.  
+* E.  
 <pre><code>ArrayList<Animal> myList = new ArrayList<>();
 myList.add(new Cat());</code></pre> 
 
