@@ -10,5 +10,17 @@ public class Q37 {
 		//fVar = dVar;
 		dVar = iVar;
 		//iVar = dVar;
+		
+		// Which three lines fail to compile?
+		/**
+		 * A. Line 7
+		 * B. Line 8
+		 * C. Line 9
+		 * D. Line 10
+		 * E. Line 11
+		 * F. Line 12
+		 */
+		
+		// Answer : A, D, F
 	}
 }

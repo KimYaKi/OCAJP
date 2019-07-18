@@ -15,7 +15,7 @@ public class Result {
 
 	public static void main(String[] args) {
 		List<Person> iList = Arrays.asList(new Person("Hank", 45), new Person("Charlie", 40), new Person("Smith", 38));
-		// Hank 출력
+		// Which code fragment, when inserted at line 20, 23, 26, 29, enables the code to print Hank?
 
 		// A : Error
 		// checkAge(iList, () -> p.getAge() > 40);

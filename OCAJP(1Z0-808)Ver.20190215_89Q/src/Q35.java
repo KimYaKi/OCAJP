@@ -20,5 +20,22 @@ public class Q35 {
 	public static void main(String[] args) {
 		doSum(10, 20);
 		doSum(10.0, 20.0);
+		
+		// What is the result?
+		/**
+		 * A. int sum is 30
+		      double sum is 30.0
+		      
+		 * B. int sum is 30
+		      double sum is 30.0
+		      
+		 * C. Integer sum is 30
+		      double sum is 30.0
+		      
+		 * D. Integer sum is 30
+		      float sum is 30.0
+		 */
+		
+		// Answer : B
 	}
 }
