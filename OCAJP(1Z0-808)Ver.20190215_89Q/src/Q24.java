@@ -10,14 +10,28 @@ public class Q24 {
 		 * */
 		
 		// Option A
-		if (qty >= 90) {
-			discount = 0.5;
-		} else if (qty >= 80 && qty < 90) {
-			discount = 0.2;
-		}
+		if (qty >= 90) { discount = 0.5; } 
+		else if (qty >= 80 && qty < 90) { discount = 0.2; }
+		
+		/**
+		 * Option B
+		 * discount = (qty >= 90) ? 0.5 : 0;
+		 * discount = (aty > 80) ? 0.2 : 0;
+		 */
 		
 		// Option C
 		discount = (qty >= 90) ? 0.5 : (qty > 80) ? 0.2 : 0;
+		
+		/**
+		 * Option D
+		 * if (qty > 80 && qty < 90) { discount = 0.2; }
+		 * else { discount = 0; }
+		 * 
+		 * Option E
+		 * discount = (qty > 80) ? 0.2 : (qty >= 90) ? 0.5 : 0;
+		 */
+		
+		// Answer : A, C
 
 	}
 }

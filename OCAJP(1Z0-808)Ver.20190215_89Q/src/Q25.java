@@ -8,12 +8,20 @@ public class Q25 {
 			System.out.println("Failure");
 		}
 		
-		/*
-		 * cmd
+		/**
+		 * And given the commands:
 		 * javac Q25.java
 		 * java Q25 Hello
+		 * What is the result?
+		 * 
+		 * A. Success
+		 * B. Failure
+		 * C. Compilation fails.
+		 * D. An exception is thrown at runtime
+		 * 
 		 * */
 		
+		// Answer : B
 		// output : Failure
 	}
 

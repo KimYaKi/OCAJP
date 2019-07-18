@@ -1,0 +1,12 @@
+What is the name of the Java concept that uses access modifiers to protect variables and hide them within a class?
+	-> 의도적으로 Java클래스 내의 변수를 숨길 거나 접근을 제한할 수 있도록 하는 것을 무엇이라 하는가?
+A. Encapsulation
+B. Inheritance
+C. Abstraction
+D. Instantiation
+E. Polymorphism
+
+Answer : A (Encapsulation)
+Using the 'private' modifier is the main way that an object encapsulates itself and hide data from the outside world.
+	-> 'private'접근 제한자를 사용하는 것은 객체가 자신을 캡슐화하고 외부로부터 데이터를 숨기는 주요 방법이다.
+	

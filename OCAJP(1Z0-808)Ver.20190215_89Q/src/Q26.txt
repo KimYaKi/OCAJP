@@ -1,0 +1,17 @@
+Which three statements describe the object-oriented features of the Java language? (Choose three.)
+	-> Java 언어의 객체 지향 기능을 설명하는 것은? (Choose 3)
+
+A. Objects cannot be reused.
+	-> object들은 재사용 할 수 없다.
+B. A subclass can inherit from a superclass.
+	-> 하위 클래스는 수퍼 클래스에서 상속 받을 수 있다.
+C. Objects can share behaviors with other objects.
+	-> 객체는 다른 객체와 동작을 공유할 수 있다.
+D. A package must contain more than one class.
+	-> 패키지는 둘 이상의 클래스를 포함해야 한다.
+E. Object is the root class of all other objects.
+	-> Object는 다른 모든 object의 루트 클래스다.
+F. A main method must be declared in every class.
+	-> 모든 클래스에서 선언을해야 한다.
+
+Answer : B, C, F

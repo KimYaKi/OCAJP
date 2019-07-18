@@ -1,0 +1,15 @@
+Which three are advantages of the Java exception mechanism? (Choose three.)
+	-> Java 예외 메커니즘의 장점은 무엇입니까? (세 가지를 선택하십시오.)
+	
+A. Improves the program structure because the error handling code is separated from the normal program function
+	-> 오류 처리 코드가 일반 프로그램 기능과 분리되어 프로그램 구조가 개선되었다.
+B. Provides a set of standard exceptions that covers all the possible errors
+	-> 모든 가능한 오류를 다루는 일련의 표준 예외를 제공한다.
+C. Improves the program structure because the programmer can choose where to handle exceptions
+	-> 프로그래머가 예외 처리 위치를 선택 할 수 있기 때문에 프로그램 구조가 개선되었다.
+D. Improves the program structure because exceptions must be handled in the method in which they occurred
+	-> 예외가 발생한 메소드에서 예외를 처리해야하기 때문에 프로그램 구조가 개선되었다.
+E. Allows the creation of new exceptions that are tailored to the particular program being created
+	-> 생성되는 특정 프로그램에 맞게 조정된 새로운 예외를 생성 할 수 있다.
+
+Answer : A, C, D

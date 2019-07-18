@@ -1,0 +1,13 @@
+Which statement best describes encapsulation?
+	-> 캡슐화의 설명에 대하여 가장 정확한 것은 무엇인가?
+
+A. Encapsulation ensures that classes can be designed so that only certain fields and methods of an object are accessible from other objects.
+	-> 캡슐화는 개체의 특정 필드와 메서드만 다른 개체에서 액세스 할 수 있도록 클래스를 디자인 할 수 있게 한다.
+B. Encapsulation ensures that classes can be designed so that their methods are inheritable.
+	-> 캡술화는 클래스가 상속받을 수 있도록 클래스를 설계 할 수 있도록한다.
+C. Encapsulation ensures that classes can be designed with some fields and methods declared as abstract.
+	-> 캡슐화는 클래스가 추상으로 선언 된 일부 필드와 메소드로 디자인 될 수 있음을 보장한다.
+D. Encapsulation ensures that classes can be designed so that if a method has an argument MyType x, any subclass of MyType can be passed to that method.
+	-> 캡술화는 메소드에 인수 'MyType x'가 있는 경우 'MyType'의 서브 클래스를 해당 메소드에 전달할 수 있도록 클래스를 설계 할 수 있도록한다.
+	
+	Answer : A
