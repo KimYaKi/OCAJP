@@ -1,13 +1,18 @@
 
 public class Q44 {
 	public static void main(String[] args) {
-		int x = 1;
-		//short x = 1; // O
-		//Byte x = 1; // O
-		//String x = "1";
-		//long x = 1;
-		//double x = 1;
-		//Integer x = new Integer("1"); // O
+		
+		// Which three code fragments can be independently inserted at line n1 to enable the code to print one? (Choose 3)
+		/**
+		 * A. Byte x = 1;
+		 * B. short x = 1;
+		 * C. String x = "1";
+		 * D. Long x = 1;
+		 * E. Double x = 1;
+		 * F. Integer x = new Integer("1");
+		 */
+		
+		int x = 1;	// line n1
 		
 		switch (x) {
 		case 1:
@@ -17,5 +22,7 @@ public class Q44 {
 			System.out.println("Two");
 			break;
 		}
+		
+		// Answer : A, B, F
 	}
 }

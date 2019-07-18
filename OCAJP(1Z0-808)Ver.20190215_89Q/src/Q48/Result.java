@@ -6,11 +6,16 @@ public class Result {
 		Manager manager = new Manager();
 		Director director = new Director();
 		
-		employee.salary = 50000;
-		director.salary = 80000;
-		//employee.budget = 200000;
-		manager.budget = 1000000;
-		//manager.stockOptions = 500;
-		director.stockOptions = 1000;
+		// Which two options fail to compile when placed at line n1 of the main method? (Choose two.)
+		/**
+		 * A. employee.salary = 50000;
+		 * B. director.salary = 80000;
+		 * C. employee.budget = 200000;
+		 * D. manager.budget = 1000000;
+		 * E. manager.stockOption = 500;
+		 * F. director.stockOptions = 1000; 
+		 */
+		
+		// Answer : C, E
 	}
 }

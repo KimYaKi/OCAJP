@@ -1,0 +1,26 @@
+Which statement is true about Java byte code?
+	-> Java 바이트 코드에 관한 설명은?
+
+A. It can run on any platform.
+	-> 모든 플랫폼에서 실행할 수 있다.
+B. It can run on any platform only if it was compiled for that platform.
+	-> 해당 플랫폼 용으로 컴파일 된 경우에만 모든 플랫폼에서 실행할 수 있다.
+C. It can run on any platform that has the Java Runtime Environment.
+	-> Java Runtime Environment가 있는 모든 플랫폼에서 실행할 수 있다.
+D. It can run on any platform that has a Java compiler.
+	-> Java 컴파일러가 있는 모든 플랫폼에서 실행할 수 있다.
+E. It can run on any platform only if that platform has both the Java Runtime Environment and a Java compiler.
+	-> 플랫폼에 Java Runtime Environment와 Java 컴파일러가 모두 있는 경우에만 모든 플랫폼에서 실행할 수 있다.
+	
+Answer : D
+
+Java bytecodes help make "write once, run anywhere" possible. 
+You can compile your program into bytecodes on any platform that has a Java compiler. 
+The bytecodes can then be run on any implementation of the Java VM. 
+That means that as long as a computer has a Java VM, the same program written in the Java programming language can run on Windows 2000, a Solaris workstation, or on an iMac.
+
+Java 바이트 코드난 "한 번만 작성하고 어디서든 실행"할 수 있다.
+Java컴파일러가 있는 모든 플랫폼에서 프로그램을 바이트 코드로 컴파일 할 수 있다.
+바이트 코드는 Java VM의 모든 구현에서 실행될 수 있다.
+즉, 컴퓨터에 Java VM이 있는 한 Java 프로그래밍 언어로 작성된 동일한 프로그램을 Windows2000,
+ Solaris 워크 스테이션 또는 iMac에서 실행할 수 있다.

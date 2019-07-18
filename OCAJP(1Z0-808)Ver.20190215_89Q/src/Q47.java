@@ -3,12 +3,15 @@ public class Q47 {
 
 	int id;
 	String name;
+	
 	public Q47(int id, String name) {
 		this.id = id;
 		this.name = name;
 	}
 	
 	public static void main(String[] args) {
+		
+		// Given the code fragment
 		Q47 p1 = new Q47(101, "Pen");
 		Q47 p2 = new Q47(101, "Pen");
 		Q47 p3 = p1;
@@ -16,6 +19,16 @@ public class Q47 {
 		boolean ans2 = p1.name.equals(p2.name); // true
 		
 		System.out.println(ans1 + ":" + ans2);
+		
+		// What is the result?
+		/**
+		 * A. true:true
+		 * B. true:false
+		 * C. false:true
+		 * D. false:false
+		 */
+		
+		// Answer : C
 	}
 
 }
