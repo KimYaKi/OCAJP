@@ -1,0 +1,21 @@
+Given the following segment of code:
+	ArrayList<Vehicle> myList = new ArrayList<>();
+	myList.add(new Motorcycle());
+Which two statements, if either were true, would make the code compile?
+아래 보기 중 어떤 것이 하나라도 성립해야 위의 코드가 에러가 나지 않는가?(Choose 2)
+
+A. 'Vehicle' is an interface that is implemented by the 'Motorcycle' class.
+	-> 'Vehicle'은 'Motorcycle'클래스에 의해 구현된 인터페이스다.
+B. 'Vehicle' and 'Motorcycle' both implement the 'Transportation' interface
+	-> 'Vehicle'과 'Motorcycle'은 모두 'Transportation'인터페이스를 구현한다.
+C. 'Vehicle' is a superclass of 'Motorcycle'.
+	-> 'Vehicle'은 'Motorcycle'의 수퍼 클래스다.
+D. 'Motorcycle' is a superclass of 'Vehicle'.
+	-> 'Motorcycle'은 'Vehicle'의 수퍼 클래스다
+E. 'Vehicle' and 'Motorcycle' both extend the 'Transportation' superclass.
+	-> 'Vehicle'과 'Motorcycle'은 모두 'Transportation'의 수퍼 클래스를 확장한다.
+F. 'Motorcycle' is an interface that implements the 'Vehicle' class.
+	-> 'Motorcycle'은 'Vehicle'클래스를 구현하는 인터페이스다.
+
+Answer : C, E
+
