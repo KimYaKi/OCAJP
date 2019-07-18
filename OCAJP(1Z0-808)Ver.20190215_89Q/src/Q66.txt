@@ -1,0 +1,16 @@
+Which three statements are true about exception handling? (Choose three.)
+
+A. Only unchecked exceptions can be re thrown.
+	-> 검사되지 않은 예외만 다시 throw 될 수 있다.
+B. All subclasses of the RuntimeException class are recoverable.
+	-> RuntimeException 클래스의 모든 서브 클래스는 복구 가능하다.
+C. The parameter in a catch block is of Throwable type.
+	-> catch문의 매개 변수는 Throwable 유형이다.
+D. All subclasses of the RuntimeException class must be caught or declared to be thrown.
+	-> RuntimeException 클래스의 모든 서브 클래스는 잡히거나 던져 지도록 선언되어야 한다.
+E. All subclasses of the Exception class except the RuntimeException class are checked exceptions.
+	-> RuntimeException 클래스를 제외한 Exception클래스의 모든 하위 클래스는 검사 예외다.
+F. All subclasses of the Error class are checked exceptions and are recoverable.
+	-> Error클래스의 모든 하위 클래스는 검사예외이며 복구 할 수 있다.
+
+Answer : C, E, F

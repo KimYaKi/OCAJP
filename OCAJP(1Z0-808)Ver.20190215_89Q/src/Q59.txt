@@ -1,0 +1,16 @@
+Which three statements are true about the structure of a Java class?
+
+A. A public class must have a main method.
+	-> public 클래스에는 main메소드가 있어야 한다.
+B. A class can have only one private constructor.
+	-> 클래스에는 전용 생성자가 하나만 있다. -> 인자값을 다르게 하여 여러 생성자를 만들 수 있음
+C. A method can have the same name as a field.
+	-> 메소드는 필드와 동일한 이름을 가질 수 있다.
+D. A class can have overloaded static methods.
+	-> 클래스는 정적 메소드를 오버로드 할 수 있다. -> 오버로드 자체가 동적임
+E. The methods are mandatory components of a class.
+	-> 메소드는 클래스의 필수 구성 요소이다.
+F. The fields need not be initialized before use.
+	-> 사용하기 전에 필드를 초기화할 필요가 없다.	-> 필요 함
+
+Answer : A, C, E
