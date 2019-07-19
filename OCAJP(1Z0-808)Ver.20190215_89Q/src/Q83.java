@@ -12,9 +12,20 @@ public class Q83 {
 	}
 	
 	public static void main(String[] args) {
+		
+		// What is the result?
+		/**
+		 * A. Compilation fails.
+		 * B. 3 5
+		 * C. 0 0
+		 * D. 9 25
+		 */
+		
 		int x = 3, y = 5;
 		Q83 obj = new Q83(x, y);
 		// 단순 x, y는 지역변수이기 때문에 obj.x, obj.y를 써야 제곱된 결과를 출력할 수 있음
 		System.out.println(x + " " + y);
+		
+		// Answer : B
 	}
 }

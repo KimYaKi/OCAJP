@@ -1,10 +1,18 @@
 
 public class Q78 {
 	public static void main(String[] args) {
+		
+		// What is the result?
+		/**
+		 * A. 3
+		 * B. 4
+		 * C. -1
+		 * D. Compilation fails.
+		 */
+		
 		int wd = 0;
 		String days[] = {"sun", "mon", "wed", "sat"};
 		for(String s : days) {
-			System.out.println(s);
 			switch(s) {
 			case "sat":
 			case "sun":
@@ -15,8 +23,9 @@ public class Q78 {
 			case "wed":
 				wd += 2;
 			}
-			System.out.println(wd);
 		}
 		System.out.println(wd);
+		
+		// Answer : 3
 	}
 }
