@@ -8,8 +8,7 @@ public class CheckingAccount {
 	public CheckingAccount(){
 		amount = 100;
 	}
-	*/
-	/*
+	
 	// C :
 	public CheckingAccount(){
 		this.amount = 100;
