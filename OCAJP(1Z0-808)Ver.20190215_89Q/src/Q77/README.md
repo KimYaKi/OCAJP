@@ -19,3 +19,5 @@ Which statement is true in Result.java?
 * D  
 > After line 11, none of the objects are eligible for garbage collection.
 > - 11 번째 줄 이후에는 아무 것도 가비지 수집 대상이 아닙니다.  
+
+### Answer : C
