@@ -1,4 +1,4 @@
-###Q003
+### Q003
 
 What is the result?
 
