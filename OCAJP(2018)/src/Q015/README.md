@@ -1,4 +1,4 @@
-### Q00
+### Q015
 
 Which statement best describes encapsulation?  
 > Encapsulation에 대한 설명으로 가장 적절한 것은?
