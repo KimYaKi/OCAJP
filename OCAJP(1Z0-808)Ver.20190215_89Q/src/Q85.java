@@ -16,10 +16,11 @@ public class Q85 {
 		
 		String[] arr = {"Hi", "How", "Are", "You"};
 		List<String> arrList = new ArrayList<>(Arrays.asList(arr));
+		/*
 		if(arrList.removeIf((String s) -> (return s.length() <= 2;))) {
 			System.out.println(s + "removed");
 		}
-
+*/
 		// Answer : A
 	}
 
